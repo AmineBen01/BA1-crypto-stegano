@@ -1,4 +1,4 @@
-# Data Security Project: Cryptography and Steganography in Java  
+# MP1-2024: Cryptography and Steganography in Java  
 
 **Developed as part of my Computer Science degree coursework**  
 
